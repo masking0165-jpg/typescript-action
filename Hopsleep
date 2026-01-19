@@ -1,0 +1,39 @@
+Step-hop-sleep.exe//
+steps:
+auto<{"arc"}.dyn<{"atomic"}.clock{enum}==clock.sleep.bypass_count"<algo">;
+parse.dyn(clock:dura)=clock.swip.cache<"emul">;
+hop:
+"emu"==sequen.debug.duration;
+invoke:"emul"==deprive.(false_timer.notation"{%d_ns"'&'"%d_ms";"%d_s"}_impl);
+mark{%d_ns"'&'"%d_ms";"%d_s"}.time!==exe.time.clock;
+sleep:
+Base.ramp.relocator=dir.data.modifier;
+Header.bang.(least:string)=data.conj::&str{ };
+conjunc.data=cascade::(&str{}{}).borrow;
+hop:
+New.buff.assign=virtual.mem:cache.gene;
+Header.base.parameter=(lib.sync.update);
+load.data.lib<=streched."new.upgrades">;
+sleep:
+borrow.string:&sr== save::&mem.parral.Thread;
+steps."<:hop.<:sleep{auto.dynamic.enum}"
+Hopsleep2//
+Exe1::
+invoke:"emul(partition_false_timer_impl)"
+hop
+{
+auto<{"arc"}.dyn<{"atomic"}.clock{enum}==clock.sleep.b viypass_count"<algo">;
+parse.dyn(clock:dura)=clock.swip."emul";
+"emu"==sequen.debug.duration;
+State.emulate.algorithm==set::flag.state;
+}
+link"state". code"static".enum(debug.test.accu);
+Load.set.debug==(device cache.rejectn);
+Load.label.opearation==mapp.memmry.execution;
+sleep
+{
+Cache record.alocation=(phase.swip.exec);
+Exe !&&=!^==switch."state.reject";
+"state.reject.emul"=rejex.enum::emulation;
+Schedule.wrap.emulation==emulation<data.annotation>;
+}
